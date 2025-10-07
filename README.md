@@ -50,6 +50,8 @@ Tablo örneği:
 
 ### 📈 İstatistik ve Grafik Görünümü
 ![Grafikler ve İstatistik](Ekran%20Görüntüsü%20(561).png)
+![Grafikler ve İstatistik](Ekran%20Görüntüsü%20(562).png)
+
 
 ---
 
