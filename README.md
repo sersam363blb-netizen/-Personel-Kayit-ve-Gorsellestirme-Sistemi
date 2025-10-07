@@ -43,17 +43,14 @@ Tablo örneği:
 ## 📊 Ekran Görüntüleri
 
 ### 🔐 Giriş Ekranı
-![Giriş Ekranı](Images/Ekran%20Görüntüsü%20(559).png)
+![Giriş Ekranı](Ekran%20Görüntüsü%20(559).png)
 
 ### 🧾 Personel Yönetimi
-![Personel Yönetimi](Images/Ekran%20Görüntüsü%20(560).png)
+![Personel Yönetimi](Ekran%20Görüntüsü%20(560).png)
 
 ### 📈 İstatistik ve Grafik Görünümü
-![Grafikler ve İstatistik](Images/Ekran%20Görüntüsü%20(561).png)
+![Grafikler ve İstatistik](Ekran%20Görüntüsü%20(561).png)
 
 ---
 
-## ⚙️ Kurulum
-1. Projeyi klonla:
-   ```bash
-   git clone https://github.com/KULLANICI_ADIN/PersonelKayitSistemi.git
+
